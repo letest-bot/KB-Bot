@@ -74,8 +74,8 @@ module.exports. run = function({ api, event, args, getText }) {
     
     
     const siu = `╭──────────❁
-│S⃠I⃠F⃠U⃠ C⃠O⃠M⃠M⃠A⃠N⃠D⃠ L⃠I⃠S⃠T⃠
-╰──────────────────❁\n\n𝑭𝑶𝑹 𝑴𝑶𝑹𝑬 𝑰𝑵𝑭𝑶𝑹𝑴𝑺𝑻𝑰𝑶𝑵 𝑻𝒀𝑷𝑬 /help (𝑪𝑶𝑴𝑴𝑨𝑵𝑫 𝑵𝑨𝑴𝑬) ✨\n────···♡  ∩_∩  ♡···────`;
+│✿︎ 𝗦𝗛𝗜𝗙𝗔𝗧 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧 ✿︎
+╰──────────────────❁\n\n 𝑻𝒀𝑷 / 𝑨𝑵𝑫 𝑪𝑴𝑫 𝑵𝑨𝑴𝑬 𓆉︎ ✨\n────···♡  ∩_∩  ♡···────`;
     
  const text = `\nPage (${page}/${Math.ceil(arrayInfo.length/numberOfOnePage)})\n`;
  
