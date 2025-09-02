@@ -73,9 +73,9 @@ module.exports. run = function({ api, event, args, getText }) {
     for (let item of returnArray) msg += `「 ${++i} 」${prefix}${item}\n`;
     
     
-    const siu = `╭───────❁
-│ཫ≛⃝SHIFAT COMMAND LIST
-╰────────────❁\n\nFor More Information type /help (command name) ✨\n────···♡  ∩_∩  ♡···────`;
+    const siu = `╭──────────❁
+│S⃠I⃠F⃠U⃠ C⃠O⃠M⃠M⃠A⃠N⃠D⃠ L⃠I⃠S⃠T⃠
+╰──────────────────❁\n\n𝑭𝑶𝑹 𝑴𝑶𝑹𝑬 𝑰𝑵𝑭𝑶𝑹𝑴𝑺𝑻𝑰𝑶𝑵 𝑻𝒀𝑷𝑬 /help (𝑪𝑶𝑴𝑴𝑨𝑵𝑫 𝑵𝑨𝑴𝑬) ✨\n────···♡  ∩_∩  ♡···────`;
     
  const text = `\nPage (${page}/${Math.ceil(arrayInfo.length/numberOfOnePage)})\n`;
  
