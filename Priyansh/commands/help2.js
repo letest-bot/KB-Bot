@@ -73,7 +73,7 @@ module.exports. run = function({ api, event, args, getText }) {
     for (let item of returnArray) msg += `✰『 ${++i} 』 ➬${item} \n`;
     
     
-    const siu = `SHIFU COMMAND LIST ❤️?`;
+    const siu = `🇸 🇭 🇮 🇫 🇺  🇨 🇴 🇲 🇲 🇦 🇳 🇩  🇱 🇮 🇸 🇹 💝🔥 `;
     
  const text = `\nPage (${page}/${Math.ceil(arrayInfo.length/numberOfOnePage)})`;
  
