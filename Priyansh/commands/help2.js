@@ -70,10 +70,10 @@ module.exports. run = function({ api, event, args, getText }) {
     i = startSlice;
     const returnArray = arrayInfo.slice(startSlice, startSlice + numberOfOnePage);
     
-    for (let item of returnArray) msg += `✰『 ${++i} 』 ➬${item} \n`;
+    for (let item of returnArray) msg += `༒︎『 ${++i} 』✿︎ ➬${item} \n\n`;
     
     
-    const siu = `🇸 🇭 🇮 🇫 🇺  🇨 🇴 🇲 🇲 🇦 🇳 🇩  🇱 🇮 🇸 🇹 💝🔥 `;
+    const siu = ` ༒︎☠︎︎𝐒𝐇𝐈𝐅𝐀𝐓 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐋𝐈𝐒𝐓☠︎︎༒︎ `;
     
  const text = `\nPage (${page}/${Math.ceil(arrayInfo.length/numberOfOnePage)})`;
  
